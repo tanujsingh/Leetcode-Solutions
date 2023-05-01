@@ -6,6 +6,7 @@ This repository contains my solutions to Leetcode problems. If you like this rep
 
 ### Problem List
 
-| #   | Title                                                        | Solutions    | Difficulty | Tag    |
-|-----|--------------------------------------------------------------|--------------|------------|--------|
-| 1   | [Two Sum](https://leetcode.com/problems/two-sum/)            | [Solution]() | Easy       | Arrays |
+| #   | Title                                                             | Solutions                                                                                                                               | Difficulty | Tag         |
+|-----|-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|------------|-------------|
+| 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                 | [Solution](https://github.com/tanujsingh/Leetcode-Solutions/blob/main/src/test/java/com/java/leetcode/solutions/arrays/TwoSumTest.java) | Easy       | Arrays, Map |
+| 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution]()                                                                                                                            | Medium     | LinkedList  | 
